@@ -1,0 +1,10 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,655,,,,,,
+GO cellular component complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (98),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+endoplasmic reticulum (GO:0005783),1088,16,3.89,+,4.12,1.13E-03,1
+Unclassified (UNCLASSIFIED),840,6,3,+,2,0.00E+00,

@@ -1,0 +1,18 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,2976,,,,,,
+GO biological process complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (98),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+response to water deprivation (GO:0009414),1250,17,4.47,+,3.81,6.68E-03,1
+cellular lipid metabolic process (GO:0044255),1115,15,3.98,+,3.77,3.22E-02,1
+response to acid chemical (GO:0001101),1396,18,4.99,+,3.61,6.78E-03,
+response to water (GO:0009415),1363,17,4.87,+,3.49,2.08E-02,
+response to inorganic substance (GO:0010035),2250,23,8.04,+,2.86,1.09E-02,
+response to organic substance (GO:0010033),4566,34,16.31,+,2.08,4.56E-02,
+response to chemical (GO:0042221),5314,38,18.99,+,2,2.56E-02,
+response to stress (GO:0006950),5760,40,20.58,+,1.94,2.69E-02,
+response to stimulus (GO:0050896),9761,60,34.87,+,1.72,1.10E-03,
+Unclassified (UNCLASSIFIED),1093,3,3.9,-,0.77,0.00E+00,

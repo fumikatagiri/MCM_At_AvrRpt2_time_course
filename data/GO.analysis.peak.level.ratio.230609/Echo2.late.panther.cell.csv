@@ -1,0 +1,13 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,655,,,,,,
+GO cellular component complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (261),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+proteasome core complex (GO:0005839),24,5,0.23,+,21.89,4.63E-03,1
+proteasome complex (GO:0000502),60,8,0.57,+,14.01,1.66E-04,
+endopeptidase complex (GO:1905369),66,8,0.63,+,12.74,3.23E-04,
+peptidase complex (GO:1905368),94,8,0.89,+,8.94,3.74E-03,
+Unclassified (UNCLASSIFIED),840,6,7.99,-,0.75,0.00E+00,

@@ -1,0 +1,34 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,1776,,,,,,
+GO molecular function complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (413),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+NAD(P)+ nucleosidase activity (GO:0050135),30,8,0.45,+,17.71,1.29E-04,1
+"NAD+ nucleotidase, cyclic ADP-ribose generating (GO:0061809)",31,8,0.47,+,17.14,1.60E-04,1
+NAD+ nucleosidase activity (GO:0003953),31,8,0.47,+,17.14,1.60E-04,
+ADP binding (GO:0043531),171,23,2.57,+,8.93,3.41E-11,1
+"hydrolase activity, hydrolyzing N-glycosyl compounds (GO:0016799)",69,9,1.04,+,8.66,4.18E-03,
+calmodulin binding (GO:0005516),170,12,2.56,+,4.69,3.40E-02,1
+adenyl ribonucleotide binding (GO:0032559),625,36,9.41,+,3.83,4.42E-08,
+protein serine/threonine kinase activity (GO:0004674),760,43,11.44,+,3.76,7.95E-10,1
+purine ribonucleotide binding (GO:0032555),755,39,11.37,+,3.43,1.37E-07,
+adenyl nucleotide binding (GO:0030554),765,39,11.52,+,3.39,1.97E-07,
+ribonucleotide binding (GO:0032553),784,39,11.8,+,3.3,3.88E-07,
+carbohydrate derivative binding (GO:0097367),820,39,12.35,+,3.16,1.32E-06,
+purine nucleotide binding (GO:0017076),896,42,13.49,+,3.11,4.27E-07,
+protein kinase activity (GO:0004672),1027,47,15.46,+,3.04,7.24E-08,
+kinase activity (GO:0016301),1280,52,19.27,+,2.7,3.80E-07,
+nucleotide binding (GO:0000166),1084,44,16.32,+,2.7,1.08E-05,
+nucleoside phosphate binding (GO:1901265),1084,44,16.32,+,2.7,1.08E-05,
+anion binding (GO:0043168),1255,50,18.9,+,2.65,1.65E-06,
+"phosphotransferase activity, alcohol group as acceptor (GO:0016773)",1185,47,17.84,+,2.63,6.32E-06,
+small molecule binding (GO:0036094),1321,48,19.89,+,2.41,9.06E-05,
+"transferase activity, transferring phosphorus-containing groups (GO:0016772)",1487,52,22.39,+,2.32,8.08E-05,
+"catalytic activity, acting on a protein (GO:0140096)",2536,77,38.18,+,2.02,1.17E-05,
+transferase activity (GO:0016740),3424,94,51.55,+,1.82,1.69E-05,
+ion binding (GO:0043167),2802,72,42.19,+,1.71,1.61E-02,
+catalytic activity (GO:0003824),8339,167,125.56,+,1.33,3.50E-02,
+Unclassified (UNCLASSIFIED),2088,29,31.44,-,0.92,0.00E+00,

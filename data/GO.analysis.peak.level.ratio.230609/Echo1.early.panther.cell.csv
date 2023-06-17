@@ -1,0 +1,15 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,655,,,,,,
+GO cellular component complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (413),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+plasma membrane raft (GO:0044853),3,3,0.05,+,66.42,4.11E-02,1
+membrane raft (GO:0045121),3,3,0.05,+,66.42,4.11E-02,
+plasma membrane (GO:0005886),2943,89,44.31,+,2.01,1.71E-07,
+cell periphery (GO:0071944),3458,95,52.07,+,1.82,4.70E-06,
+membrane (GO:0016020),4858,115,73.14,+,1.57,3.34E-04,
+Unclassified (UNCLASSIFIED),840,17,12.65,+,1.34,0.00E+00,
+protein-containing complex (GO:0032991),3058,22,46.04,-,0.48,4.50E-02,1

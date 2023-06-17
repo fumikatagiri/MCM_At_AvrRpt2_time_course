@@ -1,0 +1,53 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,2976,,,,,,
+GO biological process complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (259),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+systemic acquired resistance (GO:0009627),119,9,1.12,+,8.01,1.03E-02,1
+response to molecule of bacterial origin (GO:0002237),160,11,1.51,+,7.28,2.04E-03,1
+response to salicylic acid (GO:0009751),418,25,3.95,+,6.33,2.59E-09,1
+immune system process (GO:0002376),260,12,2.45,+,4.89,3.24E-02,1
+response to organic cyclic compound (GO:0014070),964,41,9.1,+,4.5,5.84E-12,
+regulation of defense response (GO:0031347),885,36,8.36,+,4.31,1.28E-09,
+defense response to fungus (GO:0050832),930,37,8.78,+,4.21,1.11E-09,1
+response to bacterium (GO:0009617),1403,55,13.25,+,4.15,1.35E-15,
+response to fungus (GO:0009620),1186,45,11.2,+,4.02,1.15E-11,
+regulation of response to stress (GO:0080134),1018,38,9.61,+,3.95,3.32E-09,
+defense response to bacterium (GO:0042742),1105,41,10.43,+,3.93,4.58E-10,1
+defense response to other organism (GO:0098542),2299,84,21.71,+,3.87,2.93E-24,
+response to biotic stimulus (GO:0009607),2680,94,25.31,+,3.71,1.17E-26,
+response to external biotic stimulus (GO:0043207),2677,93,25.28,+,3.68,5.51E-26,
+response to other organism (GO:0051707),2677,93,25.28,+,3.68,5.51E-26,
+biological process involved in interspecies interaction between organisms (GO:0044419),2691,93,25.41,+,3.66,8.09E-26,
+defense response (GO:0006952),2619,87,24.73,+,3.52,1.59E-22,
+response to external stimulus (GO:0009605),3199,103,30.21,+,3.41,5.66E-27,
+regulation of response to stimulus (GO:0048583),1477,44,13.95,+,3.15,6.82E-08,
+response to oxidative stress (GO:0006979),743,22,7.02,+,3.14,1.07E-02,1
+protein phosphorylation (GO:0006468),1070,31,10.1,+,3.07,1.54E-04,1
+phosphorylation (GO:0016310),1105,32,10.43,+,3.07,9.28E-05,
+response to inorganic substance (GO:0010035),2250,59,21.24,+,2.78,2.50E-09,1
+response to wounding (GO:0009611),943,24,8.9,+,2.7,4.51E-02,1
+organonitrogen compound catabolic process (GO:1901565),1200,29,11.33,+,2.56,1.48E-02,1
+response to oxygen-containing compound (GO:1901700),3436,77,32.44,+,2.37,9.13E-10,
+response to stress (GO:0006950),5760,129,54.39,+,2.37,6.36E-21,
+response to chemical (GO:0042221),5314,119,50.18,+,2.37,2.97E-18,
+response to organic substance (GO:0010033),4566,100,43.11,+,2.32,1.35E-13,
+signal transduction (GO:0007165),2230,48,21.06,+,2.28,2.64E-04,1
+cell communication (GO:0007154),2525,54,23.84,+,2.26,4.97E-05,
+signaling (GO:0023052),2300,48,21.72,+,2.21,7.08E-04,
+phosphorus metabolic process (GO:0006793),1875,39,17.7,+,2.2,1.60E-02,
+organic substance catabolic process (GO:1901575),1939,40,18.31,+,2.18,1.27E-02,
+catabolic process (GO:0009056),2266,46,21.4,+,2.15,3.53E-03,
+phosphate-containing compound metabolic process (GO:0006796),1827,37,17.25,+,2.14,4.41E-02,
+cellular response to chemical stimulus (GO:0070887),2130,43,20.11,+,2.14,1.05E-02,1
+cellular response to stimulus (GO:0051716),3858,70,36.43,+,1.92,1.51E-04,
+response to lipid (GO:0033993),2756,50,26.02,+,1.92,2.97E-02,1
+protein modification process (GO:0036211),3177,56,30,+,1.87,1.67E-02,
+response to stimulus (GO:0050896),9761,171,92.17,+,1.86,2.29E-19,
+organonitrogen compound metabolic process (GO:1901564),6362,93,60.07,+,1.55,1.22E-02,
+regulation of biological process (GO:0050789),8247,115,77.87,+,1.48,4.75E-03,
+biological regulation (GO:0065007),8670,119,81.86,+,1.45,4.91E-03,
+Unclassified (UNCLASSIFIED),1093,2,10.32,-,0.19,0.00E+00,

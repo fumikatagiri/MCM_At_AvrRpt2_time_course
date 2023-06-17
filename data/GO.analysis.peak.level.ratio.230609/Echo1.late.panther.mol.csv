@@ -1,0 +1,19 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,1776,,,,,,
+GO molecular function complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (422),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+protein serine/threonine kinase activity (GO:0004674),760,29,11.69,+,2.48,3.07E-02,1
+"phosphotransferase activity, alcohol group as acceptor (GO:0016773)",1185,42,18.23,+,2.3,1.69E-03,
+protein kinase activity (GO:0004672),1027,35,15.8,+,2.22,4.78E-02,
+"transferase activity, transferring phosphorus-containing groups (GO:0016772)",1487,49,22.88,+,2.14,1.54E-03,
+kinase activity (GO:0016301),1280,42,19.69,+,2.13,1.33E-02,
+"catalytic activity, acting on a protein (GO:0140096)",2536,70,39.02,+,1.79,4.90E-03,
+transferase activity (GO:0016740),3424,93,52.68,+,1.77,1.32E-04,
+catalytic activity (GO:0003824),8339,182,128.29,+,1.42,8.39E-05,
+Unclassified (UNCLASSIFIED),2088,25,32.12,-,0.78,0.00E+00,
+nucleic acid binding (GO:0003676),3805,27,58.54,-,0.46,3.81E-03,
+RNA binding (GO:0003723),1816,8,27.94,-,0.29,1.87E-02,1

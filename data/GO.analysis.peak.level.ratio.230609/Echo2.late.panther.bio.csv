@@ -1,0 +1,58 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,2976,,,,,,
+GO biological process complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (261),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+sulfate assimilation (GO:0000103),22,5,0.21,+,23.89,1.45E-02,1
+fatty acid oxidation (GO:0019395),41,6,0.39,+,15.38,1.53E-02,1
+fatty acid catabolic process (GO:0009062),43,6,0.41,+,14.66,1.96E-02,1
+monocarboxylic acid catabolic process (GO:0072329),63,8,0.6,+,13.35,1.06E-03,
+lipid oxidation (GO:0034440),51,6,0.49,+,12.36,4.78E-02,
+cellular lipid catabolic process (GO:0044242),108,9,1.03,+,8.76,5.18E-03,
+lipid catabolic process (GO:0016042),119,9,1.13,+,7.95,1.09E-02,
+organic acid catabolic process (GO:0016054),173,11,1.65,+,6.68,4.52E-03,
+carboxylic acid catabolic process (GO:0046395),173,11,1.65,+,6.68,4.52E-03,
+leaf senescence (GO:0010150),278,17,2.65,+,6.43,1.07E-05,1
+small molecule catabolic process (GO:0044282),236,13,2.25,+,5.79,2.35E-03,
+plant organ senescence (GO:0090693),328,18,3.12,+,5.77,1.83E-05,
+pigment metabolic process (GO:0042440),358,17,3.41,+,4.99,3.58E-04,1
+response to salicylic acid (GO:0009751),418,16,3.98,+,4.02,1.26E-02,1
+organonitrogen compound catabolic process (GO:1901565),1200,41,11.42,+,3.59,7.64E-09,1
+leaf development (GO:0048366),562,19,5.35,+,3.55,9.12E-03,
+cellular catabolic process (GO:0044248),1081,35,10.29,+,3.4,1.46E-06,
+organic substance catabolic process (GO:1901575),1939,60,18.45,+,3.25,1.78E-12,
+defense response to bacterium (GO:0042742),1105,32,10.51,+,3.04,1.11E-04,1
+catabolic process (GO:0009056),2266,62,21.56,+,2.88,1.26E-10,
+response to bacterium (GO:0009617),1403,38,13.35,+,2.85,2.94E-05,
+macromolecule catabolic process (GO:0009057),1008,26,9.59,+,2.71,1.79E-02,1
+response to external biotic stimulus (GO:0043207),2677,65,25.47,+,2.55,5.40E-09,
+response to other organism (GO:0051707),2677,65,25.47,+,2.55,5.40E-09,
+response to biotic stimulus (GO:0009607),2680,65,25.5,+,2.55,9.48E-09,
+response to alcohol (GO:0097305),1324,32,12.6,+,2.54,5.44E-03,
+biological process involved in interspecies interaction between organisms (GO:0044419),2691,65,25.61,+,2.54,1.02E-08,
+response to abscisic acid (GO:0009737),1181,28,11.24,+,2.49,3.55E-02,1
+carboxylic acid metabolic process (GO:0019752),1561,37,14.85,+,2.49,1.74E-03,
+defense response to other organism (GO:0098542),2299,53,21.88,+,2.42,6.22E-06,
+response to acid chemical (GO:0001101),1396,32,13.28,+,2.41,1.87E-02,
+response to water (GO:0009415),1363,31,12.97,+,2.39,3.02E-02,1
+organic acid metabolic process (GO:0006082),2175,49,20.7,+,2.37,7.76E-05,
+response to external stimulus (GO:0009605),3199,70,30.44,+,2.3,7.69E-08,
+defense response (GO:0006952),2619,56,24.92,+,2.25,2.99E-05,
+oxoacid metabolic process (GO:0043436),2055,43,19.55,+,2.2,4.23E-03,
+response to oxygen-containing compound (GO:1901700),3436,70,32.69,+,2.14,2.38E-06,
+response to inorganic substance (GO:0010035),2250,45,21.41,+,2.1,7.17E-03,
+response to lipid (GO:0033993),2756,53,26.22,+,2.02,2.47E-03,
+response to organic substance (GO:0010033),4566,87,43.45,+,2,1.78E-07,
+response to chemical (GO:0042221),5314,97,50.56,+,1.92,8.99E-08,
+small molecule metabolic process (GO:0044281),3100,56,29.5,+,1.9,8.84E-03,
+response to hormone (GO:0009725),2722,49,25.9,+,1.89,4.79E-02,
+response to stress (GO:0006950),5760,101,54.81,+,1.84,3.57E-07,
+response to stimulus (GO:0050896),9761,141,92.88,+,1.52,4.78E-06,
+metabolic process (GO:0008152),12903,161,122.77,+,1.31,7.75E-03,
+cellular process (GO:0009987),15272,188,145.32,+,1.29,2.36E-04,
+Unclassified (UNCLASSIFIED),1093,3,10.4,-,0.29,0.00E+00,
+nucleic acid metabolic process (GO:0090304),3274,8,31.15,-,0.26,1.80E-03,
+RNA metabolic process (GO:0016070),2814,5,26.78,-,0.19,8.00E-04,1

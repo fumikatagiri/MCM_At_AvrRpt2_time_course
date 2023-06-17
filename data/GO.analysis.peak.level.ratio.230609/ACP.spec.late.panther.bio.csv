@@ -1,0 +1,34 @@
+Analysis Type:,PANTHER Overrepresentation Test (Released 20221013),,,,,,
+Annotation Version and Release Date:,GO Ontology database DOI:  10.5281/zenodo.7942786 Released 2023-05-10,,,,,,
+Analyzed List:,upload_1 (Arabidopsis thaliana),,,,,,
+Reference List:,Arabidopsis thaliana (all genes in database),,,,,,
+Test Type:,FISHER,,,,,,
+Correction:,BONFERRONI,,,,,,
+Bonferroni count:,2976,,,,,,
+GO biological process complete,Arabidopsis thaliana - REFLIST (27430),upload_1 (106),upload_1 (expected),upload_1 (over/under),upload_1 (fold Enrichment),upload_1 (P-value),hierarchy
+cellular response to hypoxia (GO:0071456),239,9,0.92,+,9.74,1.54E-03,1
+cellular response to decreased oxygen levels (GO:0036294),241,9,0.93,+,9.66,1.65E-03,
+cellular response to oxygen levels (GO:0071453),242,9,0.94,+,9.62,1.70E-03,
+response to hypoxia (GO:0001666),343,11,1.33,+,8.3,3.78E-04,
+response to decreased oxygen levels (GO:0036293),353,11,1.36,+,8.06,5.00E-04,
+response to oxygen levels (GO:0070482),355,11,1.37,+,8.02,5.28E-04,
+response to salt stress (GO:0009651),711,13,2.75,+,4.73,1.29E-02,1
+response to oxidative stress (GO:0006979),743,13,2.87,+,4.53,2.06E-02,1
+response to osmotic stress (GO:0006970),1056,16,4.08,+,3.92,1.02E-02,
+response to inorganic substance (GO:0010035),2250,29,8.69,+,3.34,1.68E-05,1
+response to bacterium (GO:0009617),1403,18,5.42,+,3.32,2.30E-02,1
+defense response to other organism (GO:0098542),2299,28,8.88,+,3.15,1.10E-04,1
+response to external biotic stimulus (GO:0043207),2677,31,10.34,+,3,5.20E-05,
+response to other organism (GO:0051707),2677,31,10.34,+,3,5.20E-05,
+response to biotic stimulus (GO:0009607),2680,31,10.36,+,2.99,5.33E-05,
+biological process involved in interspecies interaction between organisms (GO:0044419),2691,31,10.4,+,2.98,5.86E-05,
+cellular response to chemical stimulus (GO:0070887),2130,24,8.23,+,2.92,5.19E-03,
+defense response (GO:0006952),2619,29,10.12,+,2.87,4.52E-04,
+response to external stimulus (GO:0009605),3199,35,12.36,+,2.83,1.88E-05,
+response to oxygen-containing compound (GO:1901700),3436,36,13.28,+,2.71,3.25E-05,1
+response to chemical (GO:0042221),5314,48,20.54,+,2.34,4.39E-06,
+response to stress (GO:0006950),5760,51,22.26,+,2.29,2.69E-06,
+response to organic substance (GO:0010033),4566,40,17.64,+,2.27,7.57E-04,1
+response to abiotic stimulus (GO:0009628),4740,39,18.32,+,2.13,5.40E-03,
+response to stimulus (GO:0050896),9761,67,37.72,+,1.78,2.90E-05,
+Unclassified (UNCLASSIFIED),1093,3,4.22,-,0.71,0.00E+00,
