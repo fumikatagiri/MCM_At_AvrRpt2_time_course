@@ -1,0 +1,28 @@
+whole.genome	ACP.spec.early	Echo1.early	Echo2.early	NACP.spec.early	ACP.spec.late	Echo1.late	Echo2.late	NACP.spec.late
+Number of genes	27430	107	428	264	104	107	428	265	104
+response to oxidative stress (GO:0006979)	743	5	3.7	3.1	-	4.5	3.9	-	-
+defense response to fungus (GO:0050832)	930	6.6	7.4	4.2	-	-	4.7	-	-
+defense response to bacterium (GO:0042742)	1105	6.8	7	3.9	-	-	-	3	-
+cellular response to hypoxia (GO:0071456)	239	14.5	8.6	-	-	9.7	4.3	-	-
+response to inorganic substance (GO:0010035)	2250	3	-	2.8	-	3.3	-	-	-
+response to water deprivation (GO:0009414)	1250	-	2.3	-	-	-	3.3	-	3.8
+response to abscisic acid (GO:0009737)	1181	-	3	-	-	-	3.1	2.5	-
+response to wounding (GO:0009611)	943	-	4.5	2.7	-	-	4.1	-	-
+response to molecule of bacterial origin (GO:0002237)	160	-	13.7	7.3	-	-	6.5	-	-
+response to salicylic acid (GO:0009751)	418	-	-	6.3	-	-	4.5	4	-
+regulation of defense response (GO:0031347)	885	4.2	-	-	-	-	5.5	-	-
+protein phosphorylation (GO:0006468)	1070	-	3.2	3.1	-	-	-	-	-
+cellular response to lipid (GO:0071396)	837	-	3.4	-	-	-	3.9	-	-
+defense response to other organism (GO:0098542)	2299	-	4.9	-	-	3.1	-	-	-
+organonitrogen compound catabolic process (GO:1901565)	1200	-	-	2.6	-	-	-	3.6	-
+cellular response to heat (GO:0034605)	77	24.2	-	-	-	-	-	-	-
+heat acclimation (GO:0010286)	71	30	-	-	-	-	-	-	-
+regulation of signal transduction (GO:0009966)	453	-	4.8	-	-	-	-	-	-
+salicylic acid mediated signaling pathway (GO:0009863)	83	-	11.2	-	-	-	-	-	-
+plant-type hypersensitive response (GO:0009626)	58	-	11.4	-	-	-	-	-	-
+regulation of plant-type hypersensitive response (GO:0010363)	28	-	14.2	-	-	-	-	-	-
+chlorophyll catabolic process (GO:0015996)	38	-	-	-	42.5	-	-	-	-
+cellular response to oxygen-containing compound (GO:1901701)	1258	-	-	-	-	-	3.9	-	-
+fatty acid catabolic process (GO:0009062)	43	-	-	-	-	-	-	14.7	-
+fatty acid oxidation (GO:0019395)	41	-	-	-	-	-	-	15.4	-
+sulfate assimilation (GO:0000103)	22	-	-	-	-	-	-	23.9	-

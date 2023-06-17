@@ -1,0 +1,6 @@
+ACP.spec.early	Echo1.early	Echo2.early	NACP.spec.early	ACP.spec.late	Echo1.late	Echo2.late	NACP.spec.late
+protein serine/threonine kinase activity (GO:0004674)	-	3.8	3.5	-	-	2.5	-	-
+NAD(P)+ nucleosidase activity (GO:0050135)	-	17.7	-	-	-	-	-	-
+NAD+ nucleotidase, cyclic ADP-ribose generating (GO:0061809)	-	17.1	-	-	-	-	-	-
+ADP binding (GO:0043531)	-	8.9	-	-	-	-	-	-
+calmodulin binding (GO:0005516)	-	4.7	-	-	-	-	-	-

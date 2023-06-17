@@ -1,0 +1,5 @@
+ACP.spec.early	Echo1.early	Echo2.early	NACP.spec.early	ACP.spec.late	Echo1.late	Echo2.late	NACP.spec.late
+plasma membrane raft (GO:0044853)	-	66.4	-	-	-	-	-	-
+plasma membrane (GO:0005886)	-	-	-	-	-	2.2	-	-
+Golgi apparatus (GO:0005794)	-	-	-	-	-	2.2	-	-
+proteasome core complex (GO:0005839)	-	-	-	-	-	-	21.9	-
