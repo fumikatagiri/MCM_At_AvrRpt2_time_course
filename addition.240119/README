@@ -1,0 +1,16 @@
+# addition.240119.
+To run R scripts in this directory, 
+(1) The snRNA-seq (.rds) data from Nobori et al. need to be downloaded into the "./data.n/nobori.data/" subdirectory from Gene Expression Omnibus, accession GSE226826 (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE226826). The files are too large to be included here. All except the data for 24h are used in the R scripts: ten .rds files should be downloaded.
+(2) Another large file "Arabidopsis_thaliana.TAIR10.52.gff3" also needs to be downloaded into the "./data.n/nobori.data/" subdirectory from https://ftp.ensemblgenomes.ebi.ac.uk/pub/plants/release-52/gff3/arabidopsis_thaliana/Arabidopsis_thaliana.TAIR10.52.gff3.gz.
+(3) Some of the .RData files generated in "../data/" subdirectory are also required. So, make sure that this subdirectory is populated.
+(4) After procedures (1)-(3) are completed, the R scripts in this directory need to be run in the following order: 
+  (i) "gene.conv.nobori.r"
+  (ii) "nobori.data.analysis.1.r"
+  (iii) bootstrapping of the gene sets analyzed. The R script "bootstrap_all_500.gh.r" is written only for a single snRNA-seq data file as specified by the index for file.name object in line 25 of the script. As the number of snRNA-seq data files are 10, by changing the index from 1 to 10, all data files will be covered one by one. This can be done by either parallelizing this script for each data file, or simply loop the script. For each data file, it takes 15 to 30 minutes depending on the nuclear number of the data file.
+  (iv) "nobori.data.analysis.2.after.bs500.r"
+  (v) "Fig6AE.quantile.courves.gh.r"
+  (vi) "Fig 6FK.cor.w.model.gh.r"
+  (vii) "scripts.for.revision.gh.r"
+(5) The figures used in the revision will be generated in the "./data.n/figures.n/" subfolder.
+
+The R scripts in this directory and generated .RData files and figure files are described in "R.script.addition.description.xlsx".
