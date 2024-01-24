@@ -13,4 +13,4 @@ To run R scripts in this directory,
   (vii) "scripts.for.revision.gh.r"
 (5) The figures used in the revision will be generated in the "./data.n/figures.n/" subfolder.
 
-The R scripts in this directory and generated .RData files and figure files are described in "R.script.addition.description.xlsx".
+The R scripts in this directory and generated .RData files and figure files are described in "R.script.addition.description.xlsx". Generally large files were in "./data.n/nobori.data/" subdirectory.
